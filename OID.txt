@@ -1,0 +1,14 @@
+ifDescr=1.3.6.1.2.1.2.2.1.2
+ifOperStatus=1.3.6.1.2.1.2.2.1.8
+vtpVlanName=1.3.6.1.4.1.9.9.46.1.3.1.1.4.1
+entPhysicalModelName=1.3.6.1.2.1.47.1.1.1.1.13
+sysDescr=1.3.6.1.2.1.1.1.0
+sysUpTime=1.3.6.1.2.1.1.3.0
+FreeMemory=1.3.6.1.4.1.9.9.48.1.1.1.6.1
+vtpVlanState=1.3.6.1.4.1.9.9.46.1.3.1.1.2
+dot1dTpFdbPort=1.3.6.1.2.1.17.4.3.1.2
+vmVlan=1.3.6.1.4.1.9.9.68.1.2.2.1.2
+vmVoiceVlan=1.3.6.1.4.1.9.9.68.1.5
+cpmCPUTotalMonIntervalValue=1.3.6.1.4.1.9.9.109.1.1.1.1.10
+ciscoEnvMonTemperatureStatusValue=1.3.6.1.4.1.9.9.13.1.3.1.3
+cpmCPUMemoryUsed=1.3.6.1.4.1.9.9.48.1.1.1.5.1
